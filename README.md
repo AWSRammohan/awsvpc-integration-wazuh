@@ -1,0 +1,1 @@
+# awsvpc-integration-wazuh
